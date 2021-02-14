@@ -1,17 +1,17 @@
 {
-  "name": "mapache-godofredoninja-custom",
+  "name": "mapache-simonreynolds-custom",
   "description": "mapache theme for ghost by @GodoFredoNinja",
   "demo": "https://godofredo.ninja",
-  "version": "3.1.2",
+  "version": "1.0.0",
   "engines": {
     "ghost": ">=3.0.0",
     "ghost-api": "v3"
   },
   "license": "gpl-3.0",
   "author": {
-    "name": "GodoFredoNinja",
-    "email": "hello@godofredo.ninja",
-    "url": "https://godofredo.ninja"
+    "name": "Simon Reynolds",
+    "email": "hello@simonreynolds.ie",
+    "url": "https://simonreynolds.ie"
   },
   "gpm": {
     "type": "theme",
@@ -24,16 +24,15 @@
   "keywords": [
     "ghost",
     "theme",
-    "ghost-theme",
-    "GodoFredoNinja"
+    "ghost-theme"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/godofredoninja/mapache"
+    "url": "https://github.com/simon-reynolds/mapache"
   },
   "bugs": {
-    "url": "https://github.com/godofredoninja/mapache/issues",
-    "email": "hello@godofredo.ninja"
+    "url": "https://github.com/simon-reynolds/mapache-custom/issues",
+    "email": "hello@simonreynolds.ie"
   },
   "config": {
     "posts_per_page": 15,
